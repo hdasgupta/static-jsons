@@ -1,0 +1,25 @@
+{
+  "name": "Himaghna",
+  "posts" [
+    {
+      "title":"test1",
+      "comments": [
+        {
+          "comment":"Comment1"
+        }
+      ]
+    },
+    {
+      "title":"test2",
+      "comments": [
+        {
+          "comment":"Comment2"
+        },
+        {
+          "comment":"Comment3"
+        }
+      ]
+    }
+  ]
+}
+    
