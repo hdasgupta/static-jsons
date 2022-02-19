@@ -1,22 +1,22 @@
 {
-  "name": "Himaghna",
+  "id": "Himaghna",
   "posts": [
     {
-      "title":"test1",
+      "id":"test1",
       "comments": [
         {
-          "comment":"Comment1"
+          "id":"Comment1"
         }
       ]
     },
     {
-      "title":"test2",
+      "id":"test2",
       "comments": [
         {
-          "comment":"Comment2"
+          "id":"Comment2"
         },
         {
-          "comment":"Comment3"
+          "id":"Comment3"
         }
       ]
     }
