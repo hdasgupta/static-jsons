@@ -1,22 +1,25 @@
 {
-  "id": "Himaghna",
+  "user": "hdasgupta",
   "posts": [
     {
-      "id":"test1",
+      "title":"test1",
       "comments": [
         {
-          "id":"Comment1"
+          "message":"Comment1",
+          "from": "rghosh"
         }
       ]
     },
     {
-      "id":"test2",
+      "title":"test2",
       "comments": [
         {
-          "id":"Comment2"
+          "id":"Comment2",
+          "from": "sroy"
         },
         {
-          "id":"Comment3"
+          "id":"Comment3",
+          "from": "rghosh"
         }
       ]
     }
