@@ -1,28 +1,41 @@
 {
-  "user": "hdasgupta",
-  "posts": [
-    {
-      "title":"test1",
-      "comments": [
+    "count": "2",
+    "viewId": "6553",
+    "columnwidthresize": "FALSE",
+    "result": [
         {
-          "message":"Comment1",
-          "from": "rghosh"
-        }
-      ]
-    },
-    {
-      "title":"test2",
-      "comments": [
-        {
-          "id":"Comment2",
-          "from": "sroy"
+            "ID": 374140,
+            "AddressType": null,
+            "AddressLine1": "U 16 113 Burwood Hwy",
+            "AddressLine2": "",
+            "AddressLine3": "",
+            "AddressLine4": "",
+            "City": "Burwood East",
+            "State": "VIC",
+            "PostalCode": "3151",
+            "Country": "Australia",
+            "DateCreated": "2022-02-20T11:24:18",
+            "WhoCreated": "APTIFYTTI\\ebizuser",
+            "DateUpdated": "2022-02-20T11:33:26",
+            "WhoUpdated": "APTIFYTTI\\ebizuser",
+            "row_number": 1
         },
         {
-          "id":"Comment3",
-          "from": "rghosh"
+            "ID": 374139,
+            "AddressType": null,
+            "AddressLine1": "",
+            "AddressLine2": "",
+            "AddressLine3": "",
+            "AddressLine4": "",
+            "City": "",
+            "State": "NSW",
+            "PostalCode": "",
+            "Country": "Australia",
+            "DateCreated": "2022-02-20T11:24:18",
+            "WhoCreated": "APTIFYTTI\\ebizuser",
+            "DateUpdated": "2022-02-20T11:24:18",
+            "WhoUpdated": "APTIFYTTI\\ebizuser",
+            "row_number": 2
         }
-      ]
-    }
-  ]
+    ]
 }
-    
